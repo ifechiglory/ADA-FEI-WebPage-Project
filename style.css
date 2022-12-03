@@ -5,6 +5,10 @@
 
 section{
     height: fit-content;
+    background-image: url(https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHNvbGlkJTIwY29sb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .navbar-nav{
@@ -23,11 +27,7 @@ section{
 }
 
 header{
-    background-image: url(https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjR8fHNvbGlkJTIwY29sb3J8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100%;
-    background-attachment: fixed;
+    height: fit-content;
 }
 
 #nav{
@@ -66,13 +66,6 @@ header{
 }
 
 #contact{
-    background-image: url(https://images.unsplash.com/photo-1546484396-fb3fc6f95f98?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHNvbGlkJTIwY29sb3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-}
-
-#contact .col-6{
     background-color: rgba(0, 0, 0, 0.6);
 }
 
